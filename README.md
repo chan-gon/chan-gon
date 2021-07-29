@@ -3,6 +3,9 @@
 _I'm Chan-Gon Kim._</br>
 _Seeking CLEAN-CODE based Web Service._
 
+무엇 때문에, 왜 이런 기술과 코드가 나왔는지
+명확히 설명할 수 있는 개발자를 지향합니다.
+
 ### Tech Stack
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;

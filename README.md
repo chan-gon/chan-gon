@@ -19,3 +19,6 @@ _Seeking CLEAN-CODE based Web Service._
 
 ### Project
 [**Chan-Gon's Project_SeniorJob**](https://github.com/chan-gon/Project_SeniorJob)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**
+
+### Personal Blog
+https://charliecharlie.tistory.com/

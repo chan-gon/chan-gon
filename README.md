@@ -28,6 +28,7 @@ _Seeking CLEAN-CODE based Web Service._
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;
 - **Database** </br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp;
 
 ### Project
 [**Chan-Gon's Project_SeniorJob**](https://github.com/chan-gon/Project_SeniorJob)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**

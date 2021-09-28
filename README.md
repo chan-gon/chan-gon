@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=33cccc&height=300&section=header&text=Chan-Gon%20Kim&fontSize=80&fontColor=2d3436)
 ## Welcome! 👋
 _I'm Chan-Gon Kim._</br>
-_Seeking CLEAN-CODE based Web Service._
+_I only speak what I know_
 
 ## 풍부한 지식으로 폭넓게 소통할 수 있는 개발자를 지향합니다.</br> 
 개발 언어와 관련 지식은 우리가 살아가면서 사용하는 언어(Language)처럼 개발 세계의 의사소통 수단입니다.</br>

@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=33cccc&height=300&section=header&text=Chan-Gon%20Kim&fontSize=80&fontColor=2d3436)
 ## Welcome! 👋
 _I'm Chan-Gon Kim._</br>
 _I only speak what I know_

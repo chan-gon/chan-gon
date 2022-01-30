@@ -30,8 +30,5 @@ _I only speak what I know_
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp;
 
-### Project
-[**Chan-Gon's Project_SeniorJob**](https://github.com/chan-gon/Project_SeniorJob)&nbsp;&nbsp;&nbsp;:rewind: **Click Here!**
-
 ### Personal Blog
 https://charliecharlie.tistory.com/

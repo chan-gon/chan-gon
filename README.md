@@ -20,19 +20,23 @@ _I only speak what I know_
 - **Languages** </br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/c++-00599CC?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/></a>&nbsp;
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=black"/></a>&nbsp;
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>&nbsp;
 - **Framework** </br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/laravel-#FF2D20?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
 - **Tools** </br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
 - **Database** </br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/postgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>&nbsp;
 
 ### Personal Blog
 https://charliecharlie.tistory.com/

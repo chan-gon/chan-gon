@@ -30,7 +30,8 @@ _I only speak what I know_
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
 - **Tools** </br>
-<img src="https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/gittea-609926?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
